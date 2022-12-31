@@ -1,6 +1,0 @@
--  Hi, I’m @Pathum-lakshan
--  I’m interested in backend development
--  I’m currently learning java spring boot
--  I am currently working in lassana flora as a software engineer.
--  I’m looking to collaborate on 
--  How to reach me 
