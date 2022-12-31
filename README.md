@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Pathum-lakshan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Pathum-lakshan/Pathum-lakshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  Hi, I’m @Pathum-lakshan
+-  I’m interested in backend development
+-  I’m currently learning java spring boot
+-  I am currently working in lassana flora as a software engineer.
+-  I’m looking to collaborate on 
+-  How to reach me 
