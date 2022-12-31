@@ -1,0 +1,6 @@
+-  Hi, I’m @Pathum-lakshan
+-  I’m interested in backend development
+-  I’m currently learning java spring boot
+-  I am currently working in lassana flora as a software engineer
+-  linked-in profile https://www.linkedin.com/in/pathum-lakshan-b38395244/
+-  facebook profile  https://www.facebook.com/profile.php?id=100069199417971&mibextid=ZbWKwL
