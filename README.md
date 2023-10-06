@@ -5,3 +5,14 @@
 -  facebook profile  https://www.facebook.com/profile.php?id=100069199417971&mibextid=ZbWKwL
 
 To support my open source work, please visit my [GitHub Sponsors Profile](https://github.com/sponsors/Pathum-lakshan).
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sponsor Pathum-lakshan</title>
+</head>
+<body>
+    <iframe src="https://github.com/sponsors/Pathum-lakshan/card" title="Sponsor Pathum-lakshan" height="225" width="600" style="border: 0;"></iframe>
+</body>
+</html>
+
