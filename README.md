@@ -6,8 +6,4 @@
 
 To support my open source work, please visit my [GitHub Sponsors Profile](https://github.com/sponsors/Pathum-lakshan).
 
-<div id="header" align="center">
-
-    <iframe src="https://github.com/sponsors/Pathum-lakshan/card" title="Sponsor Pathum-lakshan" height="225" width="600" style="border: 0;"></iframe>
-    
-</div>
+https://gist.github.com/Pathum-lakshan/26e5cc07daf074be2e2e014e80348feb
